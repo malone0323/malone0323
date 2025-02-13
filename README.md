@@ -247,7 +247,6 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 <p align="center">
 
-  <img width="75%" src="metrics.classic.svg"/>
   <img width="75%" src="metrics.plugin.achievements.compact.svg"/>
   <img src="metrics.plugin.isocalendar.svg" width="75%"/>
   <img src="metrics.plugin.leetcode.svg" width="75%"/>
