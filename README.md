@@ -14,7 +14,7 @@
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Data Science, Embeded System, Computer Graphics, Machine Learning.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **AGI, DevOps, Competitve Programming.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Computer Graphics, Machine Learning, AGI.**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/0YJ/0YJ/issues/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/malone0323/malone0323/issues/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **He/Him/His/J.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Think outside the box, hack the difficulties, and share the knowledge: *Hacker Spirit.***
 
@@ -22,32 +22,32 @@
 <br/>
 
 <p align="center">
-  <!-- <img src="https://gpvc.arturio.dev/0YJ" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  --> 
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=0YJ&style=flat&color=brightgreen"> •   
-  <a href="https://0YJ.github.io"><img src="https://img.shields.io/badge/0yj.github.io-Hacker%20Spirit-pink?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>•
-  <a href="https://user-badge.committers.top/dominican_republic/0YJ"><img src="https://user-badge.committers.top/dominican_republic/0YJ.svg"></a>•
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/0YJ?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/0YJ?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/0YJ"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  <!-- <img src="https://gpvc.arturio.dev/malone0323" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  --> 
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=malone0323&style=flat&color=brightgreen"> •   
+  <a href="https://malone0323.github.io"><img src="https://img.shields.io/badge/malone0323.github.io-Hacker%20Spirit-pink?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>•
+  <a href="https://user-badge.committers.top/dominican_republic/malone0323"><img src="https://user-badge.committers.top/dominican_republic/malone0323.svg"></a>•
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/malone0323?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/malone0323?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
+  <a href="https://github.com/sponsors/malone0323"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
  
 </p>
 <!-- <p align="center">
   <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2F0YJ" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Fmalone0323" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
   </code>
 </p> -->
 
 #
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=0YJ&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=malone0323&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <p align="center">
-  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/left.webp">
-  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/SVG/stage.svg">
-  <img height="150" width="150" src="https://github.com/0YJ/0YJ/blob/master/WEBP/right.webp"> 
+  <img height="150" width="150" src="https://github.com/malone0323/malone0323/blob/master/WEBP/left.webp">
+  <img height="150" width="150" src="https://github.com/malone0323/malone0323/blob/master/SVG/stage.svg">
+  <img height="150" width="150" src="https://github.com/malone0323/malone0323/blob/master/WEBP/right.webp"> 
   <br/>
       Viewers:
-  <img align="center" src="https://profile-counter.glitch.me/0YJ/count.svg" alt="Visitor's Count" />
+  <img align="center" src="https://profile-counter.glitch.me/malone0323/count.svg" alt="Visitor's Count" />
 </p>
 
 #
@@ -66,11 +66,11 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/hadoop.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/apache_spark.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/aws.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/postgresql.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/mysql.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/malone0323/malone0323/master/assets/hadoop.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/malone0323/malone0323/master/assets/apache_spark.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/malone0323/malone0323/master/assets/aws.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/malone0323/malone0323/master/assets/postgresql.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/malone0323/malone0323/master/assets/mysql.svg"></code>
 
 #
 
@@ -80,14 +80,14 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/ruby.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/malone0323/malone0323/master/assets/ruby.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/opencv.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/malone0323/malone0323/master/assets/opencv.svg"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/linux-tux.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/flask.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/r-lang.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/0YJ/0YJ/master/assets/docker.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/malone0323/malone0323/master/assets/linux-tux.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/malone0323/malone0323/master/assets/flask.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/malone0323/malone0323/master/assets/r-lang.svg"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/malone0323/malone0323/master/assets/docker.svg"></code>
 
 
 
@@ -104,14 +104,14 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=0YJ&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0YJ&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=malone0323&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malone0323&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </div>
 
 </details>
 <br/>
 
-![3D Profile](https://github.com/0YJ/0YJ/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](https://github.com/malone0323/malone0323/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 <h4 align="center">
   
@@ -132,14 +132,14 @@
 @@     (  ;    	 Testing leads to failure		@@
 @@      \  \	  and failure leads to understanding 	@@
 @@       \ |						@@
-@@ 0YJ^  \\/)						@@
+@@ malone0323^  \\/)						@@
 @@     .//_/						@@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
 </h4>  
   
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/0YJ/0YJ/blob/master/github-contribution-grid-snake.svg)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/malone0323/malone0323/blob/master/github-contribution-grid-snake.svg)
 
 <br/>
 
@@ -211,7 +211,7 @@ VS Code                  3 hrs 35 mins       █░░░░░░░░░░�
 WebStorm                 2 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14%
 
 🐱‍💻 Projects: 
-0YJ.github.io  36 hrs 10 mins                █████████████░░░░░░░░░░░░   55.05% 
+malone0323.github.io  36 hrs 10 mins                █████████████░░░░░░░░░░░░   55.05% 
 metrics                  27 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   41.36% 
 Jupyter-x-Docker         1 hr 48 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75% 
 PyGithub                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
@@ -255,48 +255,48 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 <h1>
   Connect With Me
-  <img src="https://github.com/0YJ/0YJ/blob/master/GIF/Handshake.gif" height="25px">
+  <img src="https://github.com/malone0323/malone0323/blob/master/GIF/Handshake.gif" height="25px">
 </h1>
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/linkedin.svg"/></code>
+  <a href="https://www.linkedin.com/in/malone0323/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/SVG/linkedin.svg"/></code>
   </a>
   <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/facebook.svg"/></code>
+    <code><img  height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/SVG/facebook.svg"/></code>
   </a>
-  <a href="https://www.instagram.com/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/instagram.svg"/></code>
+  <a href="https://www.instagram.com/malone0323/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/SVG/instagram.svg"/></code>
   </a>
-  <a href="https://twitter.com/0YJ" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/twitter.svg"/></code>
+  <a href="https://twitter.com/malone0323" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/SVG/twitter.svg"/></code>
   </a>
-  <a href="https://dev.to/0YJ">
-    <code><img src="https://github.com/0YJ/0YJ/blob/master/SVG/dev.svg" alt="YJ's DEV Profile" height="62" width="62"></code>
+  <a href="https://dev.to/malone0323">
+    <code><img src="https://github.com/malone0323/malone0323/blob/master/SVG/dev.svg" alt="YJ's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/WEBP/hr.webp"/></code>
+  <a href="https://www.hackerrank.com/malone0323/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/WEBP/hr.webp"/></code>
   </a>
 
-  <a href="http://www.codeforces.com/profile/0YJ" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/WEBP/cf.webp"/></code>
+  <a href="http://www.codeforces.com/profile/malone0323" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/WEBP/cf.webp"/></code>
   </a>
 
-  <a href="https://www.hackerearth.com/@0YJ" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/he.svg"/></code>
+  <a href="https://www.hackerearth.com/@malone0323" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/SVG/he.svg"/></code>
   </a>
 
   <a href="https://www.codechef.com/users/yjzh" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/SVG/cc.svg"/></code>
   </a>
   
-  <a href="https://leetcode.com/0YJ/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/WEBP/lc.webp"/></code>
+  <a href="https://leetcode.com/malone0323/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/WEBP/lc.webp"/></code>
   </a>
 </p>
 
@@ -311,13 +311,13 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 #
 
-![footer](https://github.com/0YJ/0YJ/blob/master/WEBP/footer.webp)
+![footer](https://github.com/malone0323/malone0323/blob/master/WEBP/footer.webp)
 <div dir="auto" align="center">
   <br>
   <a href="https://www.buymeacoffee.com/yjzh" target="_blank" rel="nofollow"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: 180px; max-width: 100%;" data-canonical-src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg"></a>
   <br><br>
 </div>
 -----
-**Credits**: [0YJ](https://github.com/0YJ)
+**Credits**: [malone0323](https://github.com/malone0323)
 
 **Last Edited on**: 05/04/2024
