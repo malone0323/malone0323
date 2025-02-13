@@ -252,53 +252,6 @@ HTML                     9 repos             ██░░░░░░░░░�
   <img src="metrics.plugin.leetcode.svg" width="75%"/>
 </p>
 
-<h1>
-  Connect With Me
-  <img src="https://github.com/malone0323/malone0323/blob/master/GIF/Handshake.gif" height="25px">
-</h1>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/malone0323/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/malone0323/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/malone0323" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/malone0323">
-    <code><img src="https://github.com/malone0323/malone0323/blob/master/SVG/dev.svg" alt="YJ's DEV Profile" height="62" width="62"></code>
-  </a>     
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/malone0323/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/WEBP/hr.webp"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/malone0323" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/WEBP/cf.webp"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@malone0323" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/yjzh" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/SVG/cc.svg"/></code>
-  </a>
-  
-  <a href="https://leetcode.com/malone0323/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/malone0323/malone0323/blob/master/WEBP/lc.webp"/></code>
-  </a>
-</p>
-
 <br/>
 <br/>
 
