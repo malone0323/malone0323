@@ -8,7 +8,7 @@
 <br/>
 <br/>
 <p align="center">
-<img src="GIF/YJ.gif" height="288" width="888px" />
+<!-- <img src="GIF/YJ.gif" height="288" width="888px" /> -->
 </p>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Data Science, Embeded System, Computer Graphics, Machine Learning.**
