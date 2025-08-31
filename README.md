@@ -46,8 +46,8 @@
   <img height="150" width="150" src="https://github.com/malone0323/malone0323/blob/master/SVG/stage.svg">
   <img height="150" width="150" src="https://github.com/malone0323/malone0323/blob/master/WEBP/right.webp"> 
   <br/>
-      Viewers:
-  <img align="center" src="https://profile-counter.glitch.me/malone0323/count.svg" alt="Visitor's Count" />
+      Viewers: 5321
+<!--   <img align="center" src="https://profile-counter.glitch.me/malone0323/count.svg" alt="Visitor's Count" /> -->
 </p>
 
 #
