@@ -21,8 +21,8 @@
 <br/>
 <br/>
 
-<p align="center">
-  <!-- <img src="https://gpvc.arturio.dev/malone0323" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  --> 
+<!-- <p align="center">
+  <img src="https://gpvc.arturio.dev/malone0323" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=malone0323&style=flat&color=brightgreen"> •   
   <a href="https://malone0323.github.io"><img src="https://img.shields.io/badge/malone0323.github.io-Hacker%20Spirit-pink?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a>•
   <a href="https://user-badge.committers.top/dominican_republic/malone0323"><img src="https://user-badge.committers.top/dominican_republic/malone0323.svg"></a>•
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/github/stars/malone0323?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
   <a href="https://github.com/sponsors/malone0323"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
  
-</p>
+</p> -->
 <!-- <p align="center">
   <code>
     <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Fmalone0323" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
@@ -41,14 +41,14 @@
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=malone0323&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
-<p align="center">
+<!-- <p align="center">
   <img height="150" width="150" src="https://github.com/malone0323/malone0323/blob/master/WEBP/left.webp">
   <img height="150" width="150" src="https://github.com/malone0323/malone0323/blob/master/SVG/stage.svg">
   <img height="150" width="150" src="https://github.com/malone0323/malone0323/blob/master/WEBP/right.webp"> 
   <br/>
       Viewers: 5321
-<!--   <img align="center" src="https://profile-counter.glitch.me/malone0323/count.svg" alt="Visitor's Count" /> -->
-</p>
+  <img align="center" src="https://profile-counter.glitch.me/malone0323/count.svg" alt="Visitor's Count" />
+</p> -->
 
 #
 
