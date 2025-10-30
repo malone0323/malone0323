@@ -19,8 +19,6 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Think outside the box, hack the difficulties, and share the knowledge: *Hacker Spirit.***
 
 <br/>
-<br/>
-
 <!-- <p align="center">
   <img src="https://gpvc.arturio.dev/malone0323" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=malone0323&style=flat&color=brightgreen"> •   
@@ -37,8 +35,6 @@
   </code>
 </p> -->
 
-#
-
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=malone0323&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <!-- <p align="center">
@@ -50,12 +46,8 @@
   <img align="center" src="https://profile-counter.glitch.me/malone0323/count.svg" alt="Visitor's Count" />
 </p> -->
 
-#
+<!-- <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**   -->
 
-<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-
-<br/>
-<br/>
 
 <!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
